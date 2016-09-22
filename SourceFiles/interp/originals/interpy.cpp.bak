@@ -1,6 +1,6 @@
-/***********************************
- * The interp function defn        *
- ***********************************/
+/*
+ * interpy.cpp
+ */
 
 double interpy( double x[], double y[], double a)
 {
