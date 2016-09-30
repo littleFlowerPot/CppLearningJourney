@@ -1,0 +1,17 @@
+//Traversing an array with pointers. Following Schaums
+
+#include <iostream>
+using std::cout;
+using std::endl;
+
+int main()
+{
+//First I am going to output what is written in Schaums, to help my understanding.
+cout<<"Pointers can have arithmetic applied to them. The affect of this arithemetic is to cause the pointer"<<'\n';
+cout<<"to point to another memory location. THE ACTUAL CHANGE IN ADDRESS depends on the size of the FUNDAMENTAL TYPE to which the pointer points"<<'\n';
+
+
+
+
+return 0; 
+}
